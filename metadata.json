@@ -1,0 +1,6 @@
+{
+  "name": "Blink AI",
+  "description": "Camera-first ultra-minimal AI problem-solving assistant — See it. Know it.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

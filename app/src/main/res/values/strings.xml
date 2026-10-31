@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Blink AI</string>
+    <string name="tagline">See it. Know it.</string>
+    <string name="status_blink_running">Blink AI is running</string>
+    <string name="context_question">Do you need more context?</string>
+    <string name="action_yes_more_context">Yes</string>
+    <string name="action_done_solve">Done</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_expand">Expand</string>
+    <string name="action_collapse">Collapse</string>
+    <string name="action_new_scan">New Scan</string>
+    <string name="black_mode_label">Black Mode</string>
+    <string name="settings_title">Blink Configuration</string>
+    <string name="history_title">Session History</string>
+    <string name="prompts_title">Prompt Presets</string>
+    <string name="permission_camera_title">Camera Access Required</string>
+    <string name="permission_camera_rationale">Blink AI transforms your camera into an instant problem-solving lens. Grant camera access or use a target card to begin scanning.</string>
+    <string name="permission_grant_button">Enable Camera Lens</string>
+</resources>

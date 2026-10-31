@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer scanner corner brackets within 66dp safe zone (24..84) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M28,38 L28,31 C28,29.34 29.34,28 31,28 L38,28 L38,32 L32,32 L32,38 Z" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M80,38 L80,31 C80,29.34 78.66,28 77,28 L70,28 L70,32 L76,32 L76,38 Z" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M28,70 L28,77 C28,78.66 29.34,80 31,80 L38,80 L38,76 L32,76 L32,70 Z" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M80,70 L80,77 C80,78.66 78.66,80 77,80 L70,80 L70,76 L76,76 L76,70 Z" />
+
+    <!-- Bold optical eye contour -->
+    <path
+        android:fillColor="#00F5D4"
+        android:pathData="M54,36 C41.5,36 31.2,43.4 27,54 C31.2,64.6 41.5,72 54,72 C66.5,72 76.8,64.6 81,54 C76.8,43.4 66.5,36 54,36 Z M54,66 C47.37,66 42,60.63 42,54 C42,47.37 47.37,42 54,42 C60.63,42 66,47.37 66,54 C66,60.63 60.63,66 54,66 Z" />
+
+    <!-- Central AI spark iris -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,45 L56.8,51.2 L63,54 L56.8,56.8 L54,63 L51.2,56.8 L45,54 L51.2,51.2 Z" />
+</vector>
